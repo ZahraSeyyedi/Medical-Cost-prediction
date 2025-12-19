@@ -38,3 +38,8 @@ To assess how well machine learning models can predict medical insurance charges
 ## Inspiration
 
 Can healthcare costs be accurately predicted from tabular demographic data using machine learning?
+## Code
+
+The full implementation is available in the Jupyter notebook:
+- `notebooks/medical_cost_prediction.ipynb`
+
